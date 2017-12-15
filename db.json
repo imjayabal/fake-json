@@ -1,0 +1,22 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "name": "Jayabal",
+        "employeCode": 347
+      },
+      {
+        "id": 2,
+        "name": "Sadam",
+        "employeCode": 411
+      },
+      {
+        "id": 3,
+        "name": "Barath",
+        "employeCode": 404
+      }
+    ],
+    "profile": {
+      "name": "imjayabal"
+    }
+  }
