@@ -1,7 +1,25 @@
 {
-  "profiles": [
-    { "id": 1, "name": "jayabal", "age": 32 },
-    { "id": 2, "name": "saddy", "age": 28 },
-    { "id": 3, "name": "barath", "age": 27 }
-  ]
-}
+    "posts": [
+      {
+        "id": 1,
+        "name": "jayabal",
+        "employeeCode": 347,
+        "age": 32
+      },
+      {
+        "id": 2,
+        "name": "sadam",
+        "employeeCode": 411,
+        "age": 28
+      },
+      {
+        "id": 3,
+        "name": "barath",
+        "employeeCode": 404,
+        "age": 27
+      }
+    ],
+    "profile": {
+      "name": "imjayabal"
+    }
+  }
