@@ -15,7 +15,43 @@
       {
         "id": 3,
         "name": "barath",
-        "employeeCode": 40,
+        "employeeCode": 402,
+        "age": 26
+      }
+      {
+        "id": 4,
+        "name": "Balachandar",
+        "employeeCode": 406,
+        "age": 27
+      },
+      {
+        "id": 5,
+        "name": "Anush",
+        "employeeCode": 348,
+        "age": 30
+      },
+      {
+        "id": 6,
+        "name": "Mahadevan",
+        "employeeCode": 345,
+        "age": 28
+      }
+      {
+        "id": 7,
+        "name": "Dhandeeswaran",
+        "employeeCode": 400,
+        "age": 27
+      },
+      {
+        "id": 8,
+        "name": "Vijay Kumar",
+        "employeeCode": 358,
+        "age": 29
+      },
+      {
+        "id": 9,
+        "name": "Nizamudeen",
+        "employeeCode": 465,
         "age": 26
       }
     ],
